@@ -10,7 +10,7 @@ Utiliza niveles de loggeo adecuados para cada caso, es decir (debug, info, warni
 
 Incluir contexto relevante: como el nombre del flujo, el correlation Id, una marca de tiempo, cabeceras etc. Esto facilita la correlación de eventos y el análisis posterior.
 
-Evita la sobrecarga de registro: No registres excesivamente. Un exceso de loggs puede dificultar la identificación de los problemas reales. Registra solo la información necesaria para diagnosticar problemas y monitorear el funcionamiento del sistema.
+Evita la sobrecarga de loggeo: No registres excesivamente. Un exceso de loggs puede dificultar la identificación de los problemas reales. Registra solo la información necesaria para diagnosticar problemas y monitorear el funcionamiento del sistema.
 
 Seguridad de los registros: Asegúrate de proteger adecuadamente tus registros para evitar la divulgación de información sensible. Esto puede incluir técnicas de enmascaramiento o cifrado para proteger datos confidenciales en tus registros.
 
