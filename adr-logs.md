@@ -12,7 +12,7 @@ Incluir contexto relevante: como el nombre del flujo, el correlation Id, una mar
 
 Evita la sobrecarga de loggeo: No registrar excesivamente dado que un exceso de loggs puede dificultar la identificación de los problemas reales. Registra solo la información necesaria para diagnosticar problemas y monitorear el funcionamiento del sistema.
 
-Seguridad de los registros: Asegúrate de proteger adecuadamente tus registros para evitar la divulgación de información sensible. Esto puede incluir técnicas de enmascaramiento o cifrado para proteger datos confidenciales en tus registros.
+Seguridad de loggeo: Asegúrate de proteger adecuadamente tus registros para evitar la divulgación de información sensible. Esto puede incluir técnicas de enmascaramiento o cifrado para proteger datos confidenciales en tus registros.
 
 
 ## Status
