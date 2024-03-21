@@ -6,7 +6,7 @@
 
 ## Decision
 
-Utiliza niveles de registro de loggeo adecuados: Utiliza diferentes niveles de registro (debug, info, warning, error, etc.) para diferenciar la severidad de los mensajes registrados. Esto te permite filtrar y manejar los mensajes según su importancia.
+Utiliza niveles de loggeo adecuados para cada caso, es decir (debug, info, warning, error, etc.) para diferenciar la severidad de los mensajes registrados. Esto te permite filtrar y manejar los mensajes según su importancia.
 
 Incluir contexto relevante: como el nombre del flujo, el correlation Id, una marca de tiempo, cabeceras etc. Esto facilita la correlación de eventos y el análisis posterior.
 
