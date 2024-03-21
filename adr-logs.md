@@ -1,4 +1,4 @@
-# ADR [number]: [Title]
+# ADR 001: Logging Management Strategy
 
 ## Context
 
